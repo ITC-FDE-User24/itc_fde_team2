@@ -1,5 +1,6 @@
 evidence/evidence.db
 data/vastra_legacy.db
+data/vastra_v1.db
 data/drop/
 .venv/
 __pycache__/
